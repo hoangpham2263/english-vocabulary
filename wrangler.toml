@@ -1,0 +1,15 @@
+name = "english-vocabulary-api"
+main = "worker/index.ts"
+compatibility_date = "2026-10-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+ALLOWED_ORIGINS = "https://hoangpham.is-a.dev,http://localhost:5173"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "english-vocabulary"
+database_id = "3bd30739-fca6-4b9e-9ecf-a4ed996518fb"
+migrations_dir = "migrations"
+
+# Secrets (wrangler secret put): ENGLISH_VOCABULARY_USERNAME, ENGLISH_VOCABULARY_PASSWORD, ENGLISH_VOCABULARY_SESSION_SECRET

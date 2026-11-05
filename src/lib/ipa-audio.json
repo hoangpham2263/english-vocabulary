@@ -1,0 +1,229 @@
+{
+  "_note": "Each sound is cut from a key word spoken offline by the built-in macOS voices (US: Samantha, UK: Daniel) and levelled to the same loudness. Rebuild with scripts/build-ipa-audio.py on a Mac. No external service is used.",
+  "voices": {
+    "us": "Samantha",
+    "uk": "Daniel"
+  },
+  "sounds": {
+    "iː": {
+      "word": "ee",
+      "us": "us/01.mp3",
+      "uk": "uk/01.mp3"
+    },
+    "ɪ": {
+      "word": "it",
+      "us": "us/02.mp3",
+      "uk": "uk/02.mp3"
+    },
+    "e": {
+      "word": "eh",
+      "us": "us/03.mp3",
+      "uk": "uk/03.mp3"
+    },
+    "æ": {
+      "word": "at",
+      "us": "us/04.mp3",
+      "uk": "uk/04.mp3"
+    },
+    "ɑː": {
+      "word": "ah",
+      "us": "us/05.mp3",
+      "uk": "uk/05.mp3"
+    },
+    "ɔː": {
+      "word": "awe",
+      "us": "us/06.mp3",
+      "uk": "uk/06.mp3"
+    },
+    "ʊ": {
+      "word": "put",
+      "us": "us/07.mp3",
+      "uk": "uk/07.mp3"
+    },
+    "uː": {
+      "word": "ooh",
+      "us": "us/08.mp3",
+      "uk": "uk/08.mp3"
+    },
+    "ʌ": {
+      "word": "up",
+      "us": "us/09.mp3",
+      "uk": "uk/09.mp3"
+    },
+    "ɜːr": {
+      "word": "err",
+      "us": "us/10.mp3",
+      "uk": "uk/10.mp3"
+    },
+    "ə": {
+      "word": "uh",
+      "us": "us/11.mp3",
+      "uk": "uk/11.mp3"
+    },
+    "ər": {
+      "word": "her",
+      "us": "us/12.mp3",
+      "uk": "uk/12.mp3"
+    },
+    "eɪ": {
+      "word": "ay",
+      "us": "us/13.mp3",
+      "uk": "uk/13.mp3"
+    },
+    "aɪ": {
+      "word": "eye",
+      "us": "us/14.mp3",
+      "uk": "uk/14.mp3"
+    },
+    "ɔɪ": {
+      "word": "oy",
+      "us": "us/15.mp3",
+      "uk": "uk/15.mp3"
+    },
+    "aʊ": {
+      "word": "ow",
+      "us": "us/16.mp3",
+      "uk": "uk/16.mp3"
+    },
+    "oʊ": {
+      "word": "oh",
+      "us": "us/17.mp3",
+      "uk": "uk/17.mp3"
+    },
+    "ɪr": {
+      "word": "ear",
+      "us": "us/18.mp3",
+      "uk": "uk/18.mp3"
+    },
+    "er": {
+      "word": "air",
+      "us": "us/19.mp3",
+      "uk": "uk/19.mp3"
+    },
+    "ʊr": {
+      "word": "poor",
+      "us": "us/20.mp3",
+      "uk": "uk/20.mp3"
+    },
+    "p": {
+      "word": "pa",
+      "us": "us/21.mp3",
+      "uk": "uk/21.mp3"
+    },
+    "b": {
+      "word": "ba",
+      "us": "us/22.mp3",
+      "uk": "uk/22.mp3"
+    },
+    "t": {
+      "word": "ta",
+      "us": "us/23.mp3",
+      "uk": "uk/23.mp3"
+    },
+    "d": {
+      "word": "da",
+      "us": "us/24.mp3",
+      "uk": "uk/24.mp3"
+    },
+    "k": {
+      "word": "ka",
+      "us": "us/25.mp3",
+      "uk": "uk/25.mp3"
+    },
+    "ɡ": {
+      "word": "ga",
+      "us": "us/26.mp3",
+      "uk": "uk/26.mp3"
+    },
+    "f": {
+      "word": "off",
+      "us": "us/27.mp3",
+      "uk": "uk/27.mp3"
+    },
+    "v": {
+      "word": "love",
+      "us": "us/28.mp3",
+      "uk": "uk/28.mp3"
+    },
+    "θ": {
+      "word": "myth",
+      "us": "us/29.mp3",
+      "uk": "uk/29.mp3"
+    },
+    "ð": {
+      "word": "breathe",
+      "us": "us/30.mp3",
+      "uk": "uk/30.mp3"
+    },
+    "s": {
+      "word": "hiss",
+      "us": "us/31.mp3",
+      "uk": "uk/31.mp3"
+    },
+    "z": {
+      "word": "buzz",
+      "us": "us/32.mp3",
+      "uk": "uk/32.mp3"
+    },
+    "ʃ": {
+      "word": "shh",
+      "us": "us/33.mp3",
+      "uk": "uk/33.mp3"
+    },
+    "ʒ": {
+      "word": "beige",
+      "us": "us/34.mp3",
+      "uk": "uk/34.mp3"
+    },
+    "tʃ": {
+      "word": "chee",
+      "us": "us/35.mp3",
+      "uk": "uk/35.mp3"
+    },
+    "dʒ": {
+      "word": "gee",
+      "us": "us/36.mp3",
+      "uk": "uk/36.mp3"
+    },
+    "m": {
+      "word": "hum",
+      "us": "us/37.mp3",
+      "uk": "uk/37.mp3"
+    },
+    "n": {
+      "word": "fun",
+      "us": "us/38.mp3",
+      "uk": "uk/38.mp3"
+    },
+    "ŋ": {
+      "word": "sing",
+      "us": "us/39.mp3",
+      "uk": "uk/39.mp3"
+    },
+    "h": {
+      "word": "he",
+      "us": "us/40.mp3",
+      "uk": "uk/40.mp3"
+    },
+    "l": {
+      "word": "lee",
+      "us": "us/41.mp3",
+      "uk": "uk/41.mp3"
+    },
+    "r": {
+      "word": "red",
+      "us": "us/42.mp3",
+      "uk": "uk/42.mp3"
+    },
+    "w": {
+      "word": "we",
+      "us": "us/43.mp3",
+      "uk": "uk/43.mp3"
+    },
+    "j": {
+      "word": "yes",
+      "us": "us/44.mp3",
+      "uk": "uk/44.mp3"
+    }
+  }
+}
